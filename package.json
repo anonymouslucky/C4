@@ -1,0 +1,17 @@
+{
+  "name": "c4",
+  "version": "1.0.0",
+  "description": "this is just my first game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucky Behera",
+  "license": "ISC"
+}
